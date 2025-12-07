@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://bitcoinsuite-org.github.io/site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://bitcoinsuite-org.github.io/site/</loc>
+</url>
+<url>
+<loc>https://bitcoinsuite-org.github.io/site/cookie.html</loc>
+<lastmod>2025-12-06T21:41:12+01:00</lastmod>
+<image:image>
+<image:loc>https://bitcoinsuite-org.github.io/site/media/posts/10/milan-malkomes-a40akJxBhT8-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bitcoinsuite-org.github.io/site/donation.html</loc>
+<lastmod>2025-12-07T00:28:43+01:00</lastmod>
+<image:image>
+<image:loc>https://bitcoinsuite-org.github.io/site/media/posts/11/jonny-gios-SqjhKY9877M-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bitcoinsuite-org.github.io/site/fr.html</loc>
+<lastmod>2025-12-06T23:02:31+01:00</lastmod>
+<image:image>
+<image:loc>https://bitcoinsuite-org.github.io/site/media/posts/3/renan-brun-HWFHT3mFwko-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bitcoinsuite-org.github.io/site/licencescredits.html</loc>
+<lastmod>2025-12-06T21:55:07+01:00</lastmod>
+<image:image>
+<image:loc>https://bitcoinsuite-org.github.io/site/media/posts/9/slav-romanov-r38u2Uq1AXk-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bitcoinsuite-org.github.io/site/press-kit.html</loc>
+<lastmod>2025-12-07T00:28:57+01:00</lastmod>
+<image:image>
+<image:loc>https://bitcoinsuite-org.github.io/site/media/posts/12/marten-bjork-FVtG38Cjc_k-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

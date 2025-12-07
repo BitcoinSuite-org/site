@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bitcoin Suite - All-in-One Bitcoin Apps</title>
+    <link href="https://bitcoinsuite-org.github.io/site/feed.xml" rel="self" />
+    <link href="https://bitcoinsuite-org.github.io/site" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>BitcoinSuite</name>
+    </author>
+    <id>https://bitcoinsuite-org.github.io/site</id>
+
+</feed>

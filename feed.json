@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bitcoin Suite - All-in-One Bitcoin Apps",
+    "description": "",
+    "home_page_url": "https://bitcoinsuite-org.github.io/site",
+    "feed_url": "https://bitcoinsuite-org.github.io/site/feed.json",
+    "user_comment": "",
+    "icon": "https://bitcoinsuite-org.github.io/site/media/website/Bitcoin_Suite_full_logo_White_orangeBoxItalic.png",
+    "author": {
+        "name": "BitcoinSuite"
+    },
+    "items": [
+    ]
+}
